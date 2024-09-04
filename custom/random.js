@@ -1,1 +1,1 @@
-var posts=["2024-08/hello-world/","2024-08/how-to-progress/"];function toRandomPost(){window.open('/'+posts[Math.floor(Math.random() * posts.length)],"_self");};
+var posts=["2024-08/lookup-lookfor-find-different/"];function toRandomPost(){window.open('/'+posts[Math.floor(Math.random() * posts.length)],"_self");};
