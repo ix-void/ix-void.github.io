@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Time&#39;s Blog</title>
+  <title>时光客栈</title>
   
   
   <link href="https://time-tso.github.io/atom.xml" rel="self"/>
@@ -10,7 +10,7 @@
   <id>https://time-tso.github.io/</id>
   
   <author>
-    <name>Time</name>
+    <name>Time-TSO</name>
     
   </author>
   
