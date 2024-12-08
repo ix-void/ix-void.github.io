@@ -1612,13 +1612,13 @@ blockquote > :last-child {
 }
 :root {
   --hl-color: #eff;
-  --hl-bg: #212121;
-  --hltools-bg: #1c1c1c;
+  --hl-bg: #202020;
+  --hltools-bg: #1b1b1b;
   --hltools-color: rgba(238,255,255,0.8);
-  --hlnumber-bg: #212121;
+  --hlnumber-bg: #202020;
   --hlnumber-color: rgba(238,255,255,0.5);
-  --hlscrollbar-bg: #353535;
-  --hlexpand-bg: linear-gradient(180deg, rgba(33,33,33,0.6), rgba(33,33,33,0.9));
+  --hlscrollbar-bg: #343434;
+  --hlexpand-bg: linear-gradient(180deg, rgba(32,32,32,0.6), rgba(32,32,32,0.9));
 }
 [data-theme='dark'] {
   --hl-color: rgba(255,255,255,0.7);
@@ -3068,7 +3068,7 @@ h1.page-title + .tag-cloud-list {
   margin: 0 auto;
   width: 110px;
   height: 110px;
-  border-radius: 70px;
+  border-radius: 0px;
 }
 .avatar-img img {
   width: 100%;
@@ -6741,4 +6741,15 @@ blockquote.pullquote.right {
   background: transparent;
   color: #f47466;
   font-weight: bold;
+}
+.avatar-img img:hover {
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  -o-transform: rotate(0deg);
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  -o-transform: rotate(0deg);
+  -ms-transform: rotate(0deg);
+  transform: rotate(0deg);
 }
