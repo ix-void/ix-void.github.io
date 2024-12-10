@@ -6,7 +6,7 @@
   <link href="https://time-tso.github.io/atom.xml" rel="self"/>
   
   <link href="https://time-tso.github.io/"/>
-  <updated>2024-10-19T10:12:21.023Z</updated>
+  <updated>2024-12-10T14:21:54.060Z</updated>
   <id>https://time-tso.github.io/</id>
   
   <author>
@@ -17,35 +17,35 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>八年级上册数学知识点梳理</title>
-    <link href="https://time-tso.github.io/posts/2024/10/The%20first%20volume%20of%20the%20eighth%20grade%20mathematics%20knowledge%20points%20combing/"/>
-    <id>https://time-tso.github.io/posts/2024/10/The%20first%20volume%20of%20the%20eighth%20grade%20mathematics%20knowledge%20points%20combing/</id>
-    <published>2024-10-19T13:00:00.000Z</published>
-    <updated>2024-10-19T10:12:21.023Z</updated>
+    <title>Butterfly 头像修改</title>
+    <link href="https://time-tso.github.io/posts/2024/12/Butterfly-Square-Avatar/"/>
+    <id>https://time-tso.github.io/posts/2024/12/Butterfly-Square-Avatar/</id>
+    <published>2024-12-10T13:33:22.000Z</published>
+    <updated>2024-12-10T14:21:54.060Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="第十一章-三角形"><a href="#第十一章-三角形" class="headerlink" title="第十一章 三角形"></a>第十一章 三角形</h1><p><strong>1.三角形：</strong>由不在同一直线上的三条线段首尾顺次相接所组成的图形叫做三角形。</p><p><strong>2.三边关系：</strong>三角形任意两边的和大于第三边，任意两边的差小于第三边。</p><p><strong>3.高：</strong>从三角形的一个顶点向它的对边所在直线作垂线，顶点和垂足间的线段叫做三角形的高。钝角三角形三条高的交点在三角形外,直角三角形的三条高的交点在三角形上,锐角三角形的三条高的交点在三角形内，三条高线的交点叫做三角形的垂心。</p><p><strong>4.中线：</strong>在三角形中，连接一个顶点和它对边中点的线段叫做三角形的中线.（三条中线的交点叫重心）。</p><p><strong>5.角平分线：</strong>三角形的一个内角的平分线与这个角的对边相交，这个角的顶点和交点之间的线段叫做三角形的角平分线。 （三角形三条角平分线的交点到三边距离相等，三条角平分线的交点叫做内心。</p><p><strong>6.三角形的稳定性：</strong>三角形的形状是固定的，三角形的这个性质叫三角形的稳定性。（例如自行车的三角形车架利用了三角形具有稳定性）</p><p><strong>7.多边形：</strong>在平面内，由一些线段首尾顺次相接组成的图形叫做多边形。</p><p><strong>8.多边形的内角：</strong>多边形相邻两边组成的角叫做它的内角。</p><p><strong>9.多边形的外角：</strong>多边形的一边与它的邻边的延长线组成的角叫做多边形的外角。</p><p><strong>10.多边形的对角线：</strong>连接多边形不相邻的两个顶点的线段，叫做多边形的对角线。</p><p><strong>11.正多边形：</strong>在平面内，各个角都相等，各条边都相等的多边形叫正多边形。</p><p><strong>12.平面镶嵌：</strong>用一些不重叠摆放的多边形把平面的一部分完全覆盖，叫做用多边形覆盖平面，</p><p><strong>13.公式与性质：</strong></p><ul><li><p>三角形的内角和：三角形的内角和为$180^\circ$</p></li><li><p>三角形外角的性质：</p><ul><li>性质1：三角形的一个外角等于和它不相邻的两个内角的和.</li><li>性质2：三角形的一个外角大于任何一个和它不相邻的内角.</li></ul></li><li><p>多边形内角和公式：$n$边形的内角和等于$(n-2)\times180^\circ$</p></li><li><p>多边形的外角和：多边形的外角和为$360^\circ$.</p></li><li><p>多边形对角线的条数：</p><ul><li>从$n$边形的一个顶点出发可以引$(n-3)$条对角线，把多边形分成$(n-2)$个三角形.   </li><li>$n$边形共有$\frac{n(n-3)}{2}$条对角线.</li></ul></li></ul><p>​     </p><h1 id="第十二章-全等三角形"><a href="#第十二章-全等三角形" class="headerlink" title="第十二章 全等三角形"></a>第十二章 全等三角形</h1><p><strong>1.基本定义：</strong></p><ul><li><p>全等形：能够完全重合的两个图形叫做全等形.</p></li><li><p>全等三角形：能够完全重合的两个三角形叫做全等三角形.</p></li><li><p>对应顶点：全等三角形中互相重合的顶点叫做对应顶点.</p></li><li><p>对应边：全等三角形中互相重合的边叫做对应边.</p></li><li><p>对应角：全等三角形中互相重合的角叫做对应角.</p></li></ul><p><strong>2.基本性质：</strong></p><ul><li>三角形的稳定性：三边的长度确定了，这个三角形的形状、大小就全确定，这个性质叫做三角形的稳定性.</li><li>全等三角形的性质：全等三角形的对应边相等，对应角相等.</li></ul><p><strong>3.全等三角形的判定定理：</strong></p><ul><li>边边边（$SSS$）：三边对应相等的两个三角形全等.</li><li>边角边（$SAS$）：两边和它们的夹角对应相等的两个三角形全等.</li><li>角边角（$ASA$）：两角和它们的夹边对应相等的两个三角形全等.</li><li>角角边（$AAS$）：两角和其中一个角的对边对应相等的两个三角形全等.</li><li>斜边、直角边（$HL$）：斜边和一条直角边对应相等的两个直角三角形全等.</li></ul><p><strong>4.角平分线：</strong></p><ul><li>画法：  </li><li>性质定理：角平分线上的点到角的两边的距离相等.</li><li>性质定理的逆定理：角的内部到角的两边距离相等的点在角的平分线上.（三角形三条角平分线的交点到三边距离相等）</li></ul><p><strong>5.证明的基本方法步骤：</strong></p><ul><li>确定已知条件（包括隐含条件，如公共边、公共角、对顶角、角平分线、中线、高、等腰三角形、等边三角形所隐含的边角关系）；</li><li>回顾三角形判定，弄清我们还需要什么；</li><li>正确地书写证明格式（顺序和对应关系从已知推导出要证明的问题）。</li></ul><p>​        </p><p>​     </p><h1 id="第十三章-轴对称"><a href="#第十三章-轴对称" class="headerlink" title="第十三章 轴对称"></a>第十三章 轴对称</h1><p><strong>1.基本概念：</strong></p><ul><li>轴对称图形：如果一个图形沿一条直线折叠，直线两旁的部分能够互相重合，这个图形就叫做轴对称图形。</li><li>两个图形成轴对称：把一个图形沿某一条直线折叠，如果它能够与另一个图形重合，那么就说这两个图形关于这条直线对称。</li><li>线段的垂直平分线：经过线段中点并且垂直于这条线段的直线，叫做这条线段的垂直平分线。</li><li>等腰三角形：有两条边相等的三角形叫做等腰三角形.相等的两条边叫做腰，另一条边叫做底边，两腰所夹的角叫做顶角，底边与腰的夹角叫做底角。</li><li>等边三角形：三条边都相等的三角形叫做等边三角形。</li></ul><p><strong>2.基本性质：</strong></p><ul><li><p>对称的性质：</p><ul><li>不管是轴对称图形还是两个图形关于某条直线对称，对称轴都是任何一对对应点所连线段的垂直平分线.</li><li>对称的图形都全等.</li></ul></li><li><p>线段垂直平分线的性质：</p><ul><li>线段垂直平分线上的点与这条线段两个端点的距离相等.</li><li>与一条线段两个端点距离相等的点在这条线段的垂直平分线上.</li></ul></li><li><p>关于坐标轴对称的点的坐标性质</p><ul><li>点$P(x,y)$关于$x$轴对称的点的坐标为$P’(x,-y)$.</li><li>点$P(x,y)$关于$y$轴对称的点的坐标为$P’’(-x,y)$.</li></ul></li><li><p>等腰三角形的性质： </p><ul><li>等腰三角形两腰相等.      </li><li>等腰三角形两底角相等（等边对等角）.</li><li>等腰三角形的顶角角平分线、底边上的中线，底边上的高相互重合.</li><li>等腰三角形是轴对称图形，对称轴是三线合一（1条）.</li></ul></li><li><p>等边三角形的性质：</p><ul><li>等边三角形三边都相等.         </li><li>等边三角形三个内角都相等，都等于$60^\circ$</li><li>等边三角形每条边上都存在三线合一.   </li><li>等边三角形是轴对称图形，对称轴是三线合一（3条）.</li></ul></li></ul><p><strong>3.基本判定：</strong></p><ul><li><p>等腰三角形的判定： </p><ul><li>有两条边相等的三角形是等腰三角形.</li><li>如果一个三角形有两个角相等，那么这两个角所对的边也相等（等角对等边）.</li></ul></li><li><p>等边三角形的判定：</p><ul><li>三条边都相等的三角形是等边三角形.    </li><li>三个角都相等的三角形是等边三角形.</li><li>有一个角是$60^\circ$的等腰三角形是等边三角形.</li></ul></li></ul><p><strong>4.基本方法：</strong></p><ul><li><p>做已知直线的垂线：                </p></li><li><p>做已知线段的垂直平分线：</p></li><li><p>作对称轴：连接两个对应点，作所连线段的垂直平分线.  </p></li><li><p>作已知图形关于某直线的对称图形：</p></li><li><p>在直线上做一点，使它到该直线同侧的两个已知点的距离之和最短.</p></li></ul>]]></content>
+    <content type="html"><![CDATA[<h1 id="方形头像"><a href="#方形头像" class="headerlink" title="方形头像"></a>方形头像</h1><h2 id="免责声明"><a href="#免责声明" class="headerlink" title="免责声明"></a>免责声明</h2><p><strong>文部分的[root]代表博客根目录，自行替换。</strong></p><p><strong>本部分的修改无论开关pjax，均可修改。</strong></p><p><strong>本部分的代码行数可能会与原版有出入，请自行判断。</strong></p><p><strong>本部分适应版本hexo-butterfly主题v4.13.0，非本版本修改出现问题自行负责。</strong></p><h2 id="代码部分"><a href="#代码部分" class="headerlink" title="代码部分"></a>代码部分</h2><p>找到<code>[root]/themes/butterfly/sourse/css/_layout/aside.styl</code>，把第323行改为：</p><figure class="highlight stylus"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="attribute">border-radius</span>: <span class="number">0px</span></span><br></pre></td></tr></table></figure><p>这一段应该是：</p><figure class="highlight stylus"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br></pre></td><td class="code"><pre><span class="line"><span class="selector-class">.avatar-img</span></span><br><span class="line">  <span class="attribute">overflow</span>: hidden</span><br><span class="line">  <span class="attribute">margin</span>: <span class="number">0</span> auto</span><br><span class="line">  <span class="attribute">width</span>: <span class="number">110px</span></span><br><span class="line">  <span class="attribute">height</span>: <span class="number">110px</span></span><br><span class="line">  <span class="attribute">border-radius</span>: <span class="number">0px</span></span><br><span class="line"></span><br><span class="line">  <span class="selector-tag">img</span></span><br><span class="line">    <span class="attribute">width</span>: <span class="number">100%</span></span><br><span class="line">    <span class="attribute">height</span>: <span class="number">100%</span></span><br><span class="line">    <span class="attribute">transition</span>: filter <span class="number">375ms</span> ease-in .<span class="number">2s</span>, transform .<span class="number">3s</span></span><br><span class="line">    <span class="attribute">object-fit</span>: cover</span><br><span class="line"></span><br><span class="line">    <span class="selector-pseudo">&amp;:hover</span></span><br><span class="line">      <span class="attribute">transform</span>: <span class="built_in">rotate</span>(<span class="number">360deg</span>)</span><br></pre></td></tr></table></figure><p>随后到博客根目录，运行</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo cl &amp;&amp; hexo d -g</span><br></pre></td></tr></table></figure><h1 id="旋转禁用"><a href="#旋转禁用" class="headerlink" title="旋转禁用"></a>旋转禁用</h1><h2 id="免责声明-1"><a href="#免责声明-1" class="headerlink" title="免责声明"></a>免责声明</h2><p><strong>文部分的[root]代表博客根目录，自行替换。</strong></p><p><strong>本部分的修改无论开关pjax，均可修改。</strong></p><p><strong>本部分的代码行数可能会与原版有出入，请自行判断。</strong></p><p><strong>本部分适应版本hexo-butterfly主题v4.13.0，非本版本修改出现问题自行负责。</strong></p><h2 id="代码部分-1"><a href="#代码部分-1" class="headerlink" title="代码部分"></a>代码部分</h2><p>找到<code>[root]/themes/butterfly/sourse/css/index.styl</code>，插入：</p><figure class="highlight stylus"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"><span class="selector-class">.avatar-img</span> <span class="selector-tag">img</span><span class="selector-pseudo">:hover</span> &#123;</span><br><span class="line">  -webkit-<span class="attribute">transform</span>: <span class="built_in">rotate</span>(<span class="number">0deg</span>);</span><br><span class="line">  -moz-<span class="attribute">transform</span>: <span class="built_in">rotate</span>(<span class="number">0deg</span>);</span><br><span class="line">  -o-<span class="attribute">transform</span>: <span class="built_in">rotate</span>(<span class="number">0deg</span>);</span><br><span class="line">  -ms-<span class="attribute">transform</span>: <span class="built_in">rotate</span>(<span class="number">0deg</span>);</span><br><span class="line">  <span class="attribute">transform</span>: <span class="built_in">rotate</span>(<span class="number">0deg</span>);</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p>随后到博客根目录，运行</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo cl &amp;&amp; hexo d -g</span><br></pre></td></tr></table></figure>]]></content>
     
     
       
       
-    <summary type="html">&lt;h1 id=&quot;第十一章-三角形&quot;&gt;&lt;a href=&quot;#第十一章-三角形&quot; class=&quot;headerlink&quot; title=&quot;第十一章 三角形&quot;&gt;&lt;/a&gt;第十一章 三角形&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;1.三角形：&lt;/strong&gt;由不在同一直线上的三条线段首尾顺次相接所组成的</summary>
+    <summary type="html">&lt;h1 id=&quot;方形头像&quot;&gt;&lt;a href=&quot;#方形头像&quot; class=&quot;headerlink&quot; title=&quot;方形头像&quot;&gt;&lt;/a&gt;方形头像&lt;/h1&gt;&lt;h2 id=&quot;免责声明&quot;&gt;&lt;a href=&quot;#免责声明&quot; class=&quot;headerlink&quot; title=&quot;免责声明&quot;&gt;&lt;/a</summary>
       
     
     
     
-    <category term="学习" scheme="https://time-tso.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
+    <category term="Hexo" scheme="https://time-tso.github.io/categories/Hexo/"/>
     
     
-    <category term="数学" scheme="https://time-tso.github.io/tags/%E6%95%B0%E5%AD%A6/"/>
+    <category term="Hexo" scheme="https://time-tso.github.io/tags/Hexo/"/>
     
-    <category term="初中" scheme="https://time-tso.github.io/tags/%E5%88%9D%E4%B8%AD/"/>
+    <category term="Butterfly" scheme="https://time-tso.github.io/tags/Butterfly/"/>
     
   </entry>
   
   <entry>
     <title>中考语文必背篇目</title>
-    <link href="https://time-tso.github.io/posts/2024/09/Entrance%20examination%20Chinese%20must%20memorize%20the%20articles/"/>
-    <id>https://time-tso.github.io/posts/2024/09/Entrance%20examination%20Chinese%20must%20memorize%20the%20articles/</id>
+    <link href="https://time-tso.github.io/posts/2024/09/Entrance-Examination-Chinese-Must-Memorize-The-Articles/"/>
+    <id>https://time-tso.github.io/posts/2024/09/Entrance-Examination-Chinese-Must-Memorize-The-Articles/</id>
     <published>2024-09-05T13:00:00.000Z</published>
     <updated>2024-09-05T12:56:20.163Z</updated>
     
@@ -62,30 +62,9 @@
     <category term="学习" scheme="https://time-tso.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
     
     
-    <category term="初中" scheme="https://time-tso.github.io/tags/%E5%88%9D%E4%B8%AD/"/>
-    
     <category term="语文" scheme="https://time-tso.github.io/tags/%E8%AF%AD%E6%96%87/"/>
     
-  </entry>
-  
-  <entry>
-    <title>Look up, Look for, Find的差异</title>
-    <link href="https://time-tso.github.io/posts/2024/08/lookup-lookfor-find-different/"/>
-    <id>https://time-tso.github.io/posts/2024/08/lookup-lookfor-find-different/</id>
-    <published>2024-08-04T08:25:18.631Z</published>
-    <updated>2024-09-05T13:21:34.594Z</updated>
-    
-    <content type="html"><![CDATA[<div class="note info flat"><p>你可以通过切换选项卡以实现三者的对比</p></div><div class="tabs" id="words"><ul class="nav-tabs"><button type="button" class="tab  active" data-href="words-1">Look up</button><button type="button" class="tab " data-href="words-2">Look for</button><button type="button" class="tab " data-href="words-3">Find</button></ul><div class="tab-contents"><div class="tab-item-content active" id="words-1"><p><strong>查阅、搜索</strong>文献或资料时使用</p></div><div class="tab-item-content" id="words-2"><p><strong>正在寻找</strong>物品时使用</p></div><div class="tab-item-content" id="words-3"><p><strong>找到</strong>物品时使用</p></div></div><div class="tab-to-top"><button type="button" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div><h1 id="Look-up"><a href="#Look-up" class="headerlink" title="Look up"></a>Look up</h1><p><strong>基本含义</strong>：</p><ul><li>向上看；抬头看：表示将视线向上移动，看向更高的位置或对象。</li><li>查找；查阅：在字典、资料或信息中搜索特定的内容。</li><li>改善；好转：用于描述某人或某事的状况变得更好。</li><li>尊敬；仰慕：作为短语“look up to somebody”使用时，表示对某人的尊敬或仰慕之情。</li><li>拜访（某人）：非正式用法，表示去拜访某人，但这一用法不如前几种常见。</li></ul><h1 id="Look-for"><a href="#Look-for" class="headerlink" title="Look for"></a>Look for</h1><p><strong>基本含义</strong>：</p><ul><li>强调寻找的动作和过程，意思是“寻找”。它通常用于描述某人正在积极地寻找某人或某物，但不一定能找到。</li></ul><h1 id="Find"><a href="#Find" class="headerlink" title="Find"></a>Find</h1><p><strong>基本含义</strong>：</p><ul><li>强调寻找的结果，意思是“找到”或“发现”。它通常用于描述某人或某物被找到或被发现的状态。</li></ul><h1 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h1><table><thead><tr><th>词&#x2F;短语</th><th>含义</th></tr></thead><tbody><tr><td>Look Up</td><td>1. 向上看<br>2. 查找；查阅<br>3. 改善；好转<br>4. 尊敬；仰慕<br>5. 拜访（某人）</td></tr><tr><td>Look For</td><td>强调寻找的动作和过程</td></tr><tr><td>Find</td><td>强调寻找的结果</td></tr></tbody></table>]]></content>
-    
-    
-    <summary type="html">“找”的不同之处</summary>
-    
-    
-    
-    <category term="学习" scheme="https://time-tso.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
-    
-    
-    <category term="英语" scheme="https://time-tso.github.io/tags/%E8%8B%B1%E8%AF%AD/"/>
+    <category term="初中" scheme="https://time-tso.github.io/tags/%E5%88%9D%E4%B8%AD/"/>
     
   </entry>
   
