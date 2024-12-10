@@ -6,19 +6,19 @@
     height: fit-content;
     top: 10%;
     left: 10%;
-    background-color: rgba(0, 0 , 0, .85);
+    background-color: rgba(255, 255 , 255, .85);
     -webkit-backdrop-filter: blur(20px);
     backdrop-filter: blur(20px);
-    color: #c9c9c9;
+    color: #363636;
     border-radius: 12px;
     z-index: 99994;
-    border: #1c1708;
+    border: 0.1rem solid #1c1708;
     user-select: none;
-    box-shadow: rgba(255, 255, 255, .05);
+    box-shadow: #0000000d;
 }
 
 #rightMenu a {
-    color: #c9c9c9;
+    color: #363636;
 }
 
 #rightMenu .rightMenu-group {
@@ -27,7 +27,7 @@
 }
 
 #rightMenu .rightMenu-line {
-    border-top: 1px dashed rgba(255, 255, 255, 0.5)
+    border-top: 1px dashed #00000080
 }
 
 #rightMenu .rightMenu-group.rightMenu-small {
