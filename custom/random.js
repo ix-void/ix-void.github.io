@@ -1,1 +1,1 @@
-var posts=["posts/2024/12/Butterfly-Square-Avatar/","posts/2024/09/Entrance-Examination-Chinese-Must-Memorize-The-Articles/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
+var posts=["posts/2024/09/Entrance-Examination-Chinese-Must-Memorize-The-Articles/","posts/2024/12/Butterfly-Square-Avatar/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
