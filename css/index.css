@@ -4754,7 +4754,7 @@ h1.page-title + .tag-cloud-list {
   width: 35px;
   height: 35px;
   border-radius: 5px;
-  background-color: var(--btn-bg);
+  background-color: rgba(0,0,0,0.5);
   color: var(--btn-color);
   text-align: center;
   font-size: 16px;
@@ -4762,7 +4762,7 @@ h1.page-title + .tag-cloud-list {
 }
 #rightside > div > button:hover,
 #rightside > div > a:hover {
-  background-color: var(--btn-hover-color);
+  background-color: #000;
 }
 #rightside #mobile-toc-button {
   display: none;
