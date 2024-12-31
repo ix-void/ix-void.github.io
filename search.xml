@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>二项立方和公式与三项立方和公式的证明</title>
+      <link href="/posts/2024/12/The-2-term-cube-sum-formula-is-the-same-as-the-3-term-cube-sum-formula/"/>
+      <url>/posts/2024/12/The-2-term-cube-sum-formula-is-the-same-as-the-3-term-cube-sum-formula/</url>
+      
+        <content type="html"><![CDATA[<p>备注：本人尚且初二，可能与教材不符，自行选择观看</p><h1 id="二项立方和公式"><a href="#二项立方和公式" class="headerlink" title="二项立方和公式"></a>二项立方和公式</h1><p>即$a^{3}+b^{3}=(a+b)(a^{2}-ab+b^{2})$，证明：</p><script type="math/tex; mode=display">a^{3}+b^{3} \\= a^3+a^{2}b+ab^{2}-a^{2}b-ab^{2}+b^{3} \\= a^{2}·a+a^{2}·b-a·ab-b·ab+b^{2}·b+b^{2}·a \\= a^{2}(a+b)-ab(a+b)+b^{2}(a+b) \\= (a+b)(a^{2}-ab+b^{2})</script><a class="tag-Link" target="_blank" href="mailto:timepython@outlook.com?subject=2-term-cube-sum">    <div class="tag-link-tips">邮箱链接，无风险</div>    <div class="tag-link-bottom">        <div class="tag-link-left" style="background-image: url(https://api.iowen.cn/favicon/mailto:timepython@outlook.com?subject=2-term-cube-sum.png);"></div>        <div class="tag-link-right">            <div class="tag-link-title">反馈意见</div>            <div class="tag-link-sitename">EMAIL</div>        </div>        <i class="fa-solid fa-angle-right"></i>    </div>    </a><h1 id="三阶立方和公式"><a href="#三阶立方和公式" class="headerlink" title="三阶立方和公式"></a>三阶立方和公式</h1><p>即$a^{3}+b^{3}+c^{3}=(a+b+c)(a^{2}+b^{2}+c^{2}-ab-ac-bc)+3abc$，证明：</p><script type="math/tex; mode=display">a^{3}+b^{3}+c^{3} \\= a^{3}+b^{3}+c^{3}+a^{2}b-a^{2}b+a^{2}c-a^{2}c+b^{2}a-b^{2}a+b^{2}c-b^{2}c+c^{2}a-c^{2}a+c^{2}b-c^{2}b \\= a^{2}(a+b+c)+b^{2}(a+b+c)+c^{2}(a+b+c)-a^{2}b-b^{2}a-abc-a^{2}c-c^{2}a-abc-b^{2}c-c^{2}b-abc+3abc \\= (a^{2}+b^{2}+c^{2})(a+b+c)-(ab+ac+bc)(a+b+c)+3abc \\=(a+b+c)(a^{2}+b^{2}+c^{2}-ab-ac-bc)+3abc</script><a class="tag-Link" target="_blank" href="mailto:timepython@outlook.com?subject=3-term-cube-sum">    <div class="tag-link-tips">邮箱链接，无风险</div>    <div class="tag-link-bottom">        <div class="tag-link-left" style="background-image: url(https://api.iowen.cn/favicon/mailto:timepython@outlook.com?subject=3-term-cube-sum.png);"></div>        <div class="tag-link-right">            <div class="tag-link-title">反馈意见</div>            <div class="tag-link-sitename">EMAIL</div>        </div>        <i class="fa-solid fa-angle-right"></i>    </div>    </a>]]></content>
+      
+      
+      <categories>
+          
+          <category> 理科 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 数学 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Butterfly 头像修改</title>
       <link href="/posts/2024/12/Butterfly-Square-Avatar/"/>
       <url>/posts/2024/12/Butterfly-Square-Avatar/</url>
@@ -13,7 +38,7 @@
       
       <categories>
           
-          <category> Hexo </category>
+          <category> 信息技术 </category>
           
       </categories>
       
@@ -40,7 +65,7 @@
       
       <categories>
           
-          <category> 学习 </category>
+          <category> 文科 </category>
           
       </categories>
       
