@@ -1,1 +1,1 @@
-var posts=["posts/2024/12/Butterfly-Square-Avatar/","posts/2024/12/The-2-term-cube-sum-formula-is-the-same-as-the-3-term-cube-sum-formula/","posts/2024/09/Entrance-Examination-Chinese-Must-Memorize-The-Articles/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
+var posts=["posts/2024/12/Butterfly-Square-Avatar/","posts/2025/08/抗干扰对话训练：让你在聊天中保持专注的科学方法/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
